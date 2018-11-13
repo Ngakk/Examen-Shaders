@@ -1,0 +1,376 @@
+# Blender MTL File: 'None'
+# Material Count: 34
+
+newmtl RR64_CubeMap_00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_CubeMap_Alb.png
+map_d RR64_CubeMap_Alb.png
+
+newmtl RR64_CubeMap_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Road_00_Emm.png
+map_d RR64_Road_00_Emm.png
+
+newmtl RR64_EnkeI_FarMountain
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_FarMountain_Alb.png
+map_d RR64_Enkei_FarMountain_Alb.png
+
+newmtl RR64_Enkei_Floor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Floor_Alb.png
+map_d RR64_Enkei_Floor_Alb.png
+
+newmtl RR64_Enkei_Grass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Grass_Alb.png
+map_d RR64_Enkei_Grass_Alb.png
+
+newmtl RR64_Enkei_House
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_House_Alb.png
+map_d RR64_Enkei_House_Alb.png
+
+newmtl RR64_Enkei_KinokoHouse
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_KinokoHouse_Alb.png
+map_d RR64_Enkei_KinokoHouse_Alb.png
+
+newmtl RR64_Enkei_Lighthouse
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Lighthouse_Alb.png
+map_d RR64_Enkei_Lighthouse_Alb.png
+
+newmtl RR64_Enkei_Mori
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Mori_Alb.png
+map_d RR64_Enkei_Mori_Alb.png
+
+newmtl RR64_Enkei_Mountaintop
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Grass_Alb.png
+map_d RR64_Enkei_Grass_Alb.png
+
+newmtl RR64_Enkei_Road
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Road_Alb.png
+map_d RR64_Enkei_Road_Alb.png
+
+newmtl RR64_Enkei_Rock
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_rock_Alb.png
+map_d RR64_Enkei_rock_Alb.png
+
+newmtl RR64_Enkei_Ship
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Ship_Alb.png
+map_d RR64_Enkei_Ship_Alb.png
+
+newmtl RR64_Enkei_Tower
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Tower_Spm.png
+map_d RR64_Enkei_Tower_Spm.png
+
+newmtl RR64_Enkei_Tower_Alpha
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Tower_Alb.png
+map_d RR64_Enkei_Tower_Alb.png
+
+newmtl RR64_Enkei_Wall
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Wall_Alb.png
+map_d RR64_Enkei_Wall_Alb.png
+
+newmtl RR64_Enkei_Wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Enkei_Tree_Alb.png
+map_d RR64_Enkei_Tree_Alb.png
+
+newmtl RR64_Fence
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Saku_00_Alb.png
+map_d RR64_Saku_00_Alb.png
+
+newmtl RR64_Gold_00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Gold_00_Alb.png
+map_d RR64_Gold_00_Alb.png
+
+newmtl RR64_Gold_03
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Gold_03_Alb.png
+map_d RR64_Gold_03_Alb.png
+
+newmtl RR64_Gold_04
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Gold_04_Alb.png
+map_d RR64_Gold_04_Alb.png
+
+newmtl RR64_Gold_05
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Gold_05_Alb.png
+map_d RR64_Gold_05_Alb.png
+
+newmtl RR64_Light
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Light_00_Alb.png
+map_d RR64_Light_00_Alb.png
+
+newmtl RR64_Light.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Light_00_Alb.png
+map_d RR64_Light_00_Alb.png
+
+newmtl RR64_PeachBody
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd PeachOfLiberty_Alb.png
+map_d PeachOfLiberty_Alb.png
+
+newmtl RR64_RoadBack
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_RoadEdge_Ind.png
+map_d RR64_RoadEdge_Ind.png
+
+newmtl RR64_RoadEdge
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_RoadEdge_Alb.png
+map_d RR64_RoadEdge_Alb.png
+
+newmtl RR64_Road_00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Road_00_Alb.png
+map_d RR64_Road_00_Alb.png
+
+newmtl RR64_Road_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd RR64_Road_01_Alb.png
+map_d RR64_Road_01_Alb.png
+
+newmtl RR64_StartLine
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd Cmn_StartLine_Alb.png
+map_d Cmn_StartLine_Alb.png
+
+newmtl ef_dashboard
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_dashboard02_Alb.png
+map_d ef_dashboard02_Alb.png
+
+newmtl ef_glideboard
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_glideboard02_Alb.png
+map_d ef_glideboard02_Alb.png
+
+newmtl ef_gravityboard
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_GravityPanell_Alb2.png
+map_d ef_GravityPanell_Alb2.png
+
+newmtl ef_sea04
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 1
+map_Kd ef_sea04_Alb.png
+map_d ef_sea04_Alb.png
